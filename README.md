@@ -1,4 +1,7 @@
 #Popcorn time [![Dependency Status](https://david-dm.org/popcorn-time/popcorn-app.png?theme=shields.io)](https://david-dm.org/popcorn-time/popcorn-time)
+# [Build workaround]
+**Important! To build with grunt, change line 43 in node_modules/grunt-node-webkit-builder/tasks/node_webkit_builder.js 
+to http://dl.node-webkit.org/v0.9.2/node-webkit-v0.9.2-linux-x64.tar.gz after npm install**
 
 # [Goodbye](https://medium.com/p/93f890b8c9f4)
 **Update** *15 March 2014* : Sorry friends, but we removed issue tracking because it was being used to link elsewhere.
